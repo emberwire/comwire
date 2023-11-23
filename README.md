@@ -1,3 +1,3 @@
 # comwire
 
-future data and news wire for academic newsrooms
+data and news wire for academic newsrooms
