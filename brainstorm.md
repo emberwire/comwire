@@ -1,0 +1,5 @@
+- story pitch platform to pool assistance
+- assets trading
+- submission to volunteer mentoring editors
+- story pitch upvoting
+- syndication tracking
